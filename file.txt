@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Cross-Origin-Opener-Policy-Report-Only: same-origin-allow-popups; report-to="gws"
+Report-To: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Fri, 09 Dec 2022 11:47:37 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Fri, 09 Dec 2022 11:47:37 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2022-12-09-11; expires=Sun, 08-Jan-2023 11:47:37 GMT; path=/; domain=.google.com; Secure
+Set-Cookie: AEC=AakniGPPEtXkxXrN3wjxO8664U3LtHOoVrYMgFoNveet-3yoTu2oDWK5fQ; expires=Wed, 07-Jun-2023 11:47:37 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=511=pHnOza3UaC8KJ2AP2yERw40HnpgBUldO4NLOCYJX0JBezII7qvyjlNYADzi9EUjnV2LRf5Tj2DRsEGVDST4DdH52eaFx8_ehLmCZqR8j-Bee4uZaR8NpWNNOZC_B2HJsYlOKiURcN_xUfNu40K_sQrgNqDB4ZU4Y5dl1G_Y24yg; expires=Sat, 10-Jun-2023 11:47:37 GMT; path=/; domain=.google.com; HttpOnly
+Connection: close
+
+
